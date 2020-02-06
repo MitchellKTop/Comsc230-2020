@@ -1,7 +1,7 @@
 
 //Comsc230 class exercises: Nodejs
 
-// Exercise: Node Web Server
+// Exercise: Node Web Server based on tutorial: http://nicholasjohnson.com/node/course/exercises/node-server/
 
 // In your local GitHub folder create a new folder called 'Node' to hold your Node projects. 
 // Copy and save the code below into a file called 'app.js'
